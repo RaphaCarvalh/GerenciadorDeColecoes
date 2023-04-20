@@ -1,0 +1,15 @@
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\gestorLivros.csproj.AssemblyReference.cache
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\gestorLivros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\gestorLivros.AssemblyInfoInputs.cache
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\gestorLivros.AssemblyInfo.cs
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\gestorLivros.csproj.CoreCompileInputs.cache
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\bin\Debug\net6.0\gestorLivros.exe
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\bin\Debug\net6.0\gestorLivros.deps.json
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\bin\Debug\net6.0\gestorLivros.runtimeconfig.json
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\bin\Debug\net6.0\gestorLivros.dll
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\bin\Debug\net6.0\gestorLivros.pdb
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\gestorLivros.dll
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\refint\gestorLivros.dll
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\gestorLivros.pdb
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\gestorLivros.genruntimeconfig.cache
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\gestorLivros\obj\Debug\net6.0\ref\gestorLivros.dll
